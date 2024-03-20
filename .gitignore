@@ -35,3 +35,7 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+/.idea/.gitignore
+/.idea/modules.xml
+/.idea/skills-introduction-to-github.iml
+/.idea/vcs.xml
